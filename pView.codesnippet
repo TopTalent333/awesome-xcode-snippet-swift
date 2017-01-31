@@ -3,25 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>awakeFromNibSuper</string>
+	<string>pView</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>override func awakeFromNib() {
-    super.awakeFromNib()
-    &lt;#code#&gt;
-}</string>
+	<string>@IBOutlet weak var &lt;#name#&gt;View: UIView!</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B7525662-F11E-4034-93DD-168E0ECE6CF1</string>
+	<string>334414F6-44C1-492C-A5F4-4F444665371B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>awakeFromNib with super</string>
+	<string>pView</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

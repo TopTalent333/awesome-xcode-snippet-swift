@@ -3,25 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>awakeFromNibSuper</string>
+	<string>pMapView</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>override func awakeFromNib() {
-    super.awakeFromNib()
-    &lt;#code#&gt;
-}</string>
+	<string>@IBOutlet weak var mapView: MKMapView!</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B7525662-F11E-4034-93DD-168E0ECE6CF1</string>
+	<string>8A4232A8-D9DA-418E-A13F-9B0960B99CE5</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>awakeFromNib with super</string>
+	<string>pMapView</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

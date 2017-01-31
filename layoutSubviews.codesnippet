@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>public override func layoutSubviews() {
+	<string>override func layoutSubviews() {
     super.layoutSubviews()
     &lt;#code#&gt;
 }</string>

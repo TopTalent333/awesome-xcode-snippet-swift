@@ -2,26 +2,23 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>awakeFromNibSuper</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>override func awakeFromNib() {
-    super.awakeFromNib()
-    &lt;#code#&gt;
-}</string>
+	<string>    @IBAction func action&lt;#name#&gt;BarButton(_ sender: UIBarButtonItem) {
+        
+    }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B7525662-F11E-4034-93DD-168E0ECE6CF1</string>
+	<string>15EE115D-353F-4C23-A4AB-0329DCD9F365</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>awakeFromNib with super</string>
+	<string>aBarButton</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
