@@ -9,6 +9,7 @@
 Run line by line in Terminal:
 
 ```bash
+mkdir ~/Library/Developer/Xcode/UserData/CodeSnippets/
 cd ~/Library/Developer/Xcode/UserData/CodeSnippets/
 git init
 git remote add origin https://github.com/bonyadmitr/code-snippets-swift-xcode.git
