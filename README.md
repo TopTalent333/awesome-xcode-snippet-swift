@@ -6,16 +6,18 @@
 
 ## Install
 
-Run line by line in Terminal:
+1. Copy to Terminal or run line by line:
 
-```bash
-mkdir ~/Library/Developer/Xcode/UserData/CodeSnippets/
-cd ~/Library/Developer/Xcode/UserData/CodeSnippets/
-git init
-git remote add origin https://github.com/bonyadmitr/code-snippets-swift-xcode.git
-git fetch
-git checkout -t origin/master
-```
+	```bash
+	mkdir ~/Library/Developer/Xcode/UserData/CodeSnippets/
+	cd ~/Library/Developer/Xcode/UserData/CodeSnippets/
+	git init
+	git remote add origin https://github.com/bonyadmitr/code-snippets-swift-xcode.git
+	git fetch
+	git checkout -t origin/master
+	```
+
+1. Restart Xcode
 
 ## Available code snippets:
 
