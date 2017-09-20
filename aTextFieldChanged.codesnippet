@@ -3,31 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>initSetup</string>
+	<string>aTextFieldChanged</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    override init(frame: CGRect) {
-        super.init(frame: frame)
-        setup()
-    }
-    
-    required init?(coder aDecoder: NSCoder) {
-        super.init(coder: aDecoder)
-        setup()
-    }
-    
-    private func setup() {
-        &lt;#code#&gt;
+	<string>    @IBAction func changed&lt;#name#&gt;TextField(_ sender: UITextField) {
+        
     }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>0F31AE2F-537D-454C-888A-90CC5BABFAC0</string>
+	<string>74D8348B-63D0-4977-A067-6656161C194C</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Init Setup</string>
+	<string>aTextFieldChanged</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

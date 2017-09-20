@@ -3,31 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>initSetup</string>
+	<string>pSearchBar</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    override init(frame: CGRect) {
-        super.init(frame: frame)
-        setup()
-    }
-    
-    required init?(coder aDecoder: NSCoder) {
-        super.init(coder: aDecoder)
-        setup()
-    }
-    
-    private func setup() {
-        &lt;#code#&gt;
-    }</string>
+	<string>@IBOutlet weak var searchBar: UISearchBar!</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>0F31AE2F-537D-454C-888A-90CC5BABFAC0</string>
+	<string>2A7A0F00-DF8D-4C59-82C3-116A4E3F68AA</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Init Setup</string>
+	<string>pSearchBar</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

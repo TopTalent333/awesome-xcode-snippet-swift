@@ -3,31 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>initSetup</string>
+	<string>pTextView</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    override init(frame: CGRect) {
-        super.init(frame: frame)
-        setup()
-    }
-    
-    required init?(coder aDecoder: NSCoder) {
-        super.init(coder: aDecoder)
-        setup()
-    }
-    
-    private func setup() {
-        &lt;#code#&gt;
-    }</string>
+	<string>@IBOutlet weak var &lt;#name#&gt;textView: UITextView!</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>0F31AE2F-537D-454C-888A-90CC5BABFAC0</string>
+	<string>633FC19E-96A0-4E6A-80C6-A7BF485126A6</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Init Setup</string>
+	<string>pTextView</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

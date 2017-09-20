@@ -3,31 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>initSetup</string>
+	<string>getSet</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    override init(frame: CGRect) {
-        super.init(frame: frame)
-        setup()
-    }
-    
-    required init?(coder aDecoder: NSCoder) {
-        super.init(coder: aDecoder)
-        setup()
-    }
-    
-    private func setup() {
-        &lt;#code#&gt;
-    }</string>
+	<string>        get {
+            return &lt;#code#&gt;
+        }
+        set {
+            &lt;#newValue#&gt;
+        }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>0F31AE2F-537D-454C-888A-90CC5BABFAC0</string>
+	<string>BF474DD3-F022-47D8-A053-B7698B56A5BD</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Init Setup</string>
+	<string>getSet</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
