@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@IBOutlet weak var &lt;#name#&gt;textView: UITextView!</string>
+	<string>@IBOutlet weak var &lt;#name#&gt;TextView: UITextView!</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>633FC19E-96A0-4E6A-80C6-A7BF485126A6</string>
 	<key>IDECodeSnippetLanguage</key>

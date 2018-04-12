@@ -3,22 +3,28 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>todo</string>
+	<string>CollectionViewDataSource</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
-		<string>CodeBlock</string>
 		<string>TopLevel</string>
-		<string>CodeExpression</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// TODO: &lt;#new#&gt;</string>
+	<string>extension &lt;#controller#&gt;: UICollectionViewDataSource {
+    func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -&gt; Int {
+        return 100
+    }
+    
+    func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -&gt; UICollectionViewCell {
+        let cell = collectionView.dequeue(cell: UICollectionViewCell.self, for: indexPath)
+        return cell
+    }
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>0894C7BB-3457-473B-A3D6-1FEEEA73545B</string>
+	<string>7DB99829-3052-4A85-83F8-8990FEC60DD8</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>todo</string>
+	<string>UICollectionViewDataSource</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

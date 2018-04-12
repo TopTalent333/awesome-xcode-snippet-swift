@@ -3,22 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>todo</string>
+	<string>pButton</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
-		<string>CodeBlock</string>
-		<string>TopLevel</string>
-		<string>CodeExpression</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// TODO: &lt;#new#&gt;</string>
+	<string>@IBOutlet weak var &lt;#name#&gt;Button: UIButton!</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>0894C7BB-3457-473B-A3D6-1FEEEA73545B</string>
+	<string>3E037FFB-37A2-464C-B00B-5E02D0A7C05B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>todo</string>
+	<string>pButton</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
