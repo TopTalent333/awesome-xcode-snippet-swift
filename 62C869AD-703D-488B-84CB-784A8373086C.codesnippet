@@ -3,19 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pSlider</string>
+	<string>CollectionViewDelegateFlowLayout</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@IBOutlet private weak var &lt;#name#&gt;Slider: UISlider!</string>
+	<string>extension &lt;#controller#&gt;: UICollectionViewDelegateFlowLayout {
+    func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -&gt; CGSize {
+        return CGSize(width: 100, height: 100)
+    }
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>96BDB1AF-F35A-42AA-8930-5714D6B7ECC4</string>
+	<string>62C869AD-703D-488B-84CB-784A8373086C</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>pSlider</string>
+	<string>UICollectionViewDelegateFlowLayout</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

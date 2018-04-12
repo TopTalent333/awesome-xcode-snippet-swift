@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@IBOutlet weak var &lt;#name#&gt;Label: UILabel!</string>
+	<string>@IBOutlet private weak var &lt;#name#&gt;Label: UILabel!</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>627EE7D6-C483-4B96-A3A7-7A808F1636B1</string>
 	<key>IDECodeSnippetLanguage</key>

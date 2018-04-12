@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pSlider</string>
+	<string>guardSelf</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@IBOutlet private weak var &lt;#name#&gt;Slider: UISlider!</string>
+	<string>guard let `self` = self else {
+    return
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>96BDB1AF-F35A-42AA-8930-5714D6B7ECC4</string>
+	<string>51A3649B-C2F4-4D03-A8B3-72860C1E54D8</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>pSlider</string>
+	<string>guard self</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@IBOutlet weak var collectionView: UICollectionView!</string>
+	<string>@IBOutlet private weak var collectionView: UICollectionView!</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F6990F17-3F65-4462-AD2D-29B8BA306B2F</string>
 	<key>IDECodeSnippetLanguage</key>

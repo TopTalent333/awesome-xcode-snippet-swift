@@ -3,19 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pSlider</string>
+	<string>aSlider</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@IBOutlet private weak var &lt;#name#&gt;Slider: UISlider!</string>
+	<string>@IBAction private func &lt;#name#&gt;(_ sender: UISlider) {
+    
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>96BDB1AF-F35A-42AA-8930-5714D6B7ECC4</string>
+	<string>3F67F828-B172-4294-81B3-8612EF9ADB0F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>pSlider</string>
+	<string>aSlider</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

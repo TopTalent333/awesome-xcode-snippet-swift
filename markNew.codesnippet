@@ -6,7 +6,10 @@
 	<string>mNew</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>TopLevel</string>
+		<string>ClassImplementation</string>
+		<string>CodeBlock</string>
+		<string>CodeExpression</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>// MARK: - &lt;#new#&gt;</string>

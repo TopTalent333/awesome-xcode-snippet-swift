@@ -9,9 +9,9 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@IBAction func action&lt;#name#&gt;Button(_ sender: UIButton) {
-        
-    }</string>
+	<string>@IBAction private func &lt;#name#&gt;(_ sender: UIButton) {
+    
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7EBC0FB9-1D38-4D67-9B71-65CADBF98D80</string>
 	<key>IDECodeSnippetLanguage</key>

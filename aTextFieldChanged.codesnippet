@@ -9,15 +9,15 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    @IBAction func changed&lt;#name#&gt;TextField(_ sender: UITextField) {
-        
-    }</string>
+	<string>@IBAction private func &lt;#name#&gt;(_ sender: UITextField) {
+    
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>74D8348B-63D0-4977-A067-6656161C194C</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>aTextFieldChanged</string>
+	<string>aTextField</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@IBOutlet weak var &lt;#name#&gt;textField: UITextField!</string>
+	<string>@IBOutlet private weak var &lt;#name#&gt;TextField: UITextField!</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7925BE22-B82B-4A30-A834-A03237AE848E</string>
 	<key>IDECodeSnippetLanguage</key>

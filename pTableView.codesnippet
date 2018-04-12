@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@IBOutlet weak var tableView: UITableView!</string>
+	<string>@IBOutlet private weak var tableView: UITableView!</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>36166E97-6DF5-4C1E-8993-711E2EA0086D</string>
 	<key>IDECodeSnippetLanguage</key>

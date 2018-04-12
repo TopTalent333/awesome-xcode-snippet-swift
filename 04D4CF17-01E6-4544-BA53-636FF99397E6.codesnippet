@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pSlider</string>
+	<string>pBarButton</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@IBOutlet private weak var &lt;#name#&gt;Slider: UISlider!</string>
+	<string>@IBOutlet private weak var &lt;#name#&gt;BarButton: UIBarButtonItem!</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>96BDB1AF-F35A-42AA-8930-5714D6B7ECC4</string>
+	<string>04D4CF17-01E6-4544-BA53-636FF99397E6</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>pSlider</string>
+	<string>pBarButton</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
