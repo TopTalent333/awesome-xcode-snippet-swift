@@ -157,6 +157,9 @@ public override func touchesMoved(_ touches: Set<UITouch>, with event: UIEvent?)
 }
 ```
 
+## And many others
+
+<!--
 ## IBOutlet
 
 #### pMapView
@@ -229,4 +232,4 @@ public override func touchesMoved(_ touches: Set<UITouch>, with event: UIEvent?)
 
 ```swift
 
-```
+```-->
