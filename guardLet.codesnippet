@@ -3,19 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>guardLet</string>
+	<string>guardLetAny</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeExpression</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>guard let &lt;#code#&gt; else { return }</string>
+	<string>guard let &lt;#name#&gt; = &lt;#name#&gt; else {
+    return
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DFD61D75-832F-4A9F-AEB3-74BA484A5909</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>guard let MY</string>
+	<string>guard let any</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

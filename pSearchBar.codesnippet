@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@IBOutlet weak var searchBar: UISearchBar!</string>
+	<string>@IBOutlet private weak var searchBar: UISearchBar!</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2A7A0F00-DF8D-4C59-82C3-116A4E3F68AA</string>
 	<key>IDECodeSnippetLanguage</key>

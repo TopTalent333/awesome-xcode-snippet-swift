@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@IBOutlet weak var &lt;#name#&gt;Slider: UISlider!</string>
+	<string>@IBOutlet private weak var &lt;#name#&gt;Slider: UISlider!</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>96BDB1AF-F35A-42AA-8930-5714D6B7ECC4</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@IBOutlet weak var mapView: MKMapView!</string>
+	<string>@IBOutlet private weak var mapView: MKMapView!</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8A4232A8-D9DA-418E-A13F-9B0960B99CE5</string>
 	<key>IDECodeSnippetLanguage</key>

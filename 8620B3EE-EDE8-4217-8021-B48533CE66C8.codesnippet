@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@IBOutlet weak var &lt;#name#&gt;Switch: UISwitch!</string>
+	<string>@IBOutlet private weak var &lt;#name#&gt;Switch: UISwitch!</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8620B3EE-EDE8-4217-8021-B48533CE66C8</string>
 	<key>IDECodeSnippetLanguage</key>

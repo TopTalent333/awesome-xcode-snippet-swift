@@ -2,23 +2,25 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>guardSelf</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    @IBAction func action&lt;#name#&gt;BarButton(_ sender: UIBarButtonItem) {
-        
-    }</string>
+	<string>guard let `self` = self else {
+    return
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>15EE115D-353F-4C23-A4AB-0329DCD9F365</string>
+	<string>51A3649B-C2F4-4D03-A8B3-72860C1E54D8</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>aBarButton</string>
+	<string>guard self</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

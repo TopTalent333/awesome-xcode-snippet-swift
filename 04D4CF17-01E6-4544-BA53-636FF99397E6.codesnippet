@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    @IBOutlet weak var &lt;#name#&gt;BarButton: UIBarButtonItem!</string>
+	<string>@IBOutlet private weak var &lt;#name#&gt;BarButton: UIBarButtonItem!</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>04D4CF17-01E6-4544-BA53-636FF99397E6</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@IBAction func action&lt;#name#&gt;Slider(_ sender: UISlider) {
+	<string>@IBAction private func &lt;#name#&gt;(_ sender: UISlider) {
     
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
