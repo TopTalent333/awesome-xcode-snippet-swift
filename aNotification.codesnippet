@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>aSwitch</string>
+	<string>aNotification</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    @IBAction func action&lt;#name#&gt;Switch(_ sender: UISwitch) {
-        
-    }</string>
+	<string>@objc private func &lt;#name#&gt;(_ notification: Notification) {
+    
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>90BD9370-A213-4743-B0F6-647A60D4D9AC</string>
+	<string>FBF41CA5-9A27-4A61-8AB7-941620BDDC13</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>aSwitch</string>
+	<string>aNotification</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
