@@ -12,7 +12,7 @@
 	<string>switch result {
 case .success(_):
     
-case .failed(let error):
+case .failure(let error):
     
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
